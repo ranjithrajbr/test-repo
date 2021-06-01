@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello from master,
 edit from develop
+=======
+Hello from master
+edit from master
+>>>>>>> 18ecc25be9e401794f81f41fb6570fbf4b1b2231
