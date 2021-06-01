@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-Hello from master,
-edit from develop
-=======
-Hello from master
-<<<<<<< HEAD
-=======
-edit from master
->>>>>>> 18ecc25be9e401794f81f41fb6570fbf4b1b2231
->>>>>>> 17c1ab1da8bc0cc46cf0a67ffa14ea4ce012508d
+hello from develop

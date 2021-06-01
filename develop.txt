@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hello from develop
-=======
-hello develop
->>>>>>> 17c1ab1da8bc0cc46cf0a67ffa14ea4ce012508d
