@@ -1,1 +1,2 @@
-hello from develop branch and edited
+hello from develop branch and edited,
+now master edits
