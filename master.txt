@@ -3,3 +3,5 @@ hello from master
 something from develop
 hello from master
 something from master
+////////////////////////////////////////////////////////////////
+from master branch
